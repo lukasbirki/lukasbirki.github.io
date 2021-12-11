@@ -18,7 +18,11 @@ redirect_from:
 
 [CV English](http://academicpages.github.io/files/CV_Birkenmaier_27_10_2021.pdf)
 
-  
+<embed src="https://lukasbirki.github.io/files/CV_Birkenmaier.pdf" type="application/pdf" width="600px" height="500px" />
+
+
+
+
 Skills
 ======
 * Data Analysis in R
