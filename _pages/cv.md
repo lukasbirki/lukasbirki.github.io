@@ -21,13 +21,11 @@ redirect_from:
 <embed src="https://lukasbirki.github.io/files/CV_Birkenmaier.pdf" type="application/pdf" width="600px" height="500px" />
 
 
-
-
 Skills
 ======
 * Data Analysis in R
 * Skill 2
-  * Sub-skill 2.1
+  * Sub-skill 2.12
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
