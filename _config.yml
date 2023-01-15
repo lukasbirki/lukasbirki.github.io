@@ -8,7 +8,7 @@
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Lukas Sonhd. Birkenmaier"
+title                    : "Lukas Birkenmaier"
 title_separator          : "-"
 name                     : &name "Lukas Birkenmaier"
 description              : &description "Personal Webpage"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Lukas Birkenmaier"
   avatar           : "bild.jpg"
-  bio              : "PhD GESIS | NAME UNI"
+  bio              : "GESIS"
   location         : "Mannheim | Freiburg"
   employer         :
   pubmed           : 

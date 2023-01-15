@@ -8,24 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Great to have your here!
+As a PhD student in Digital Data Quality at [GESIS- Leibniz Institute for the Social Sciences](https://www.gesis.org/home), I am dedicated to advancing my knowledge and understanding in the field of digital data quality. I have a strong academic background, holding an MSc in <i>Big Data and Digital Futures</i> from the University of Warwick and a MA in <i>Politics and Public Administration</i> from the University of Konstanz. My professional experiences, including internships and work at the Ministry of Economy, Labor, and Housing Baden-Württemberg, PricewaterhouseCoopers (PwC), the University of Duisburg-Essen, and the University of Konstanz, which have provided me with a diverse set of skills and perspectives.
 
-Who am I?
-======
-I am a PhD Student in Digital Data Quality at [GESIS – Leibniz Institute for the Social Sciences](https://www.gesis.org/home). 
+# My Reserach
 
-I hold an MSc in Big Data and Digital Futures from the [University of Warwick](https://warwick.ac.uk/) and a MA in Politics and Public Administration from the [University of Konstanz](https://www.polver.uni-konstanz.de/). Moreover, I have gained practical experiences at the ministry of economy, labor and housing Baden-Württemberg, PricewaterhouseCoopers (PwC), the university of Duisburg-Essen and the university of Konstanz.  
+## NLP 
 
-My research is based within the social sciences, with a strong emphasis on empirical quantitative methods and innovative methodological approaches, such as natural language processing and deep learning. 
-My interest lies in a broad range of topics, such as the quality of digital behaviour data, data literacy, empirical based decision-making and the impact of digital technologies on society, politics and the public administration. 
+My research is grounded in the social sciences, with a particular focus on empirical quantitative methods and innovative methodological approaches, such as natural language processing and deep learning. I am particularly interested in exploring a broad range of topics, including the quality of digital behavior data, data literacy, empirical-based decision-making, and the impact of digital technologies on society, politics, and public administration. I am excited to contribute to the field by providing valuable insights and perspectives through my research.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Others
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+I have a passion for sharing my knowledge and skills with others, and one of the ways I do this is through teaching R. R is a powerful programming language and software environment for statistical computing and graphics. 
+I offer a variety of R training options, including workshops, seminars, and one-on-one consulting. In my workshops, I cover the basics of R and provide hands-on exercises to help students gain a solid understanding of the language. In my seminars, I delve into more advanced topics, such as machine learning and data visualization, and provide students with the opportunity to work on a project of their choice. Finally, in one-on-one consulting, I work with students to tailor the training to their specific needs and goals.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I am committed to helping others learn and grow, and I believe that teaching R is one of the best ways to do that. Whether you are a beginner looking to get started with R or an experienced user looking to take your skills to the next level, I am here to help.
