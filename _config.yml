@@ -8,7 +8,7 @@
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Lukas Roman Birkenmaier"
+title                    : "Lukas Sonhd. Birkenmaier"
 title_separator          : "-"
 name                     : &name "Lukas Birkenmaier"
 description              : &description "Personal Webpage"
@@ -49,6 +49,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+livereload: true     # You no longer need to include --livereload
 
 # SEO Related
 google_site_verification :
@@ -310,3 +312,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
