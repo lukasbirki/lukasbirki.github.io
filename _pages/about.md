@@ -10,7 +10,7 @@ redirect_from:
 
 As a PhD student in Digital Data Quality at [GESIS- Leibniz Institute for the Social Sciences](https://www.gesis.org/home), I am dedicated to advancing my knowledge and understanding in the field of digital data quality. I have a strong academic background, holding an MSc in <i>Big Data and Digital Futures</i> from the University of Warwick and a MA in <i>Politics and Public Administration</i> from the University of Konstanz. My professional experiences, including internships and work at the Ministry of Economy, Labor, and Housing Baden-Württemberg, PricewaterhouseCoopers (PwC), the University of Duisburg-Essen, and the University of Konstanz, which have provided me with a diverse set of skills and perspectives.
 
-# My Reserach
+# My Research
 
 ## NLP 
 

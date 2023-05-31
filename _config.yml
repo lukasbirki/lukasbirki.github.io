@@ -85,11 +85,11 @@ analytics:
 author:
   name             : "Lukas Birkenmaier"
   avatar           : "bild.jpg"
-  bio              : "GESIS"
+  bio              : "Research Associate | PhD Candidate"
   location         : "Mannheim | Freiburg"
   employer         :
   pubmed           : 
-  googlescholar    : "TBA"
+  googlescholar    : "https://scholar.google.de/citations?user=afSuvRAAAAAJ&hl=de&oi=ao"
   email            : "lukas.birkenmaier@outlook.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -106,7 +106,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/lukas-birkenmaier-359b07166/?originalSubdomain=de"
-  orcid            : 
+  orcid            : "0009-0006-1538-0589"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
