@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-By clicking on the link, you can download my [CV](https://academicpages.github.io/files/CV_Birkenmaier.pdf).
+By clicking on the link, you can [download my CV](https://lukasbirki.github.io/files/CV_Birkenmaier.pdf){:target="_blank"}.
 
 <embed src="https://lukasbirki.github.io/files/CV_Birkenmaier.pdf" type="application/pdf" width="600px" height="500px" />
