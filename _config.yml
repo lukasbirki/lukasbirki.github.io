@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-
+background: background.png
 locale                   : "en-US"
 title                    : "Lukas Birkenmaier"
 title_separator          : "-"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Lukas Birkenmaier"
   avatar           : "bild.jpg"
-  bio              : "Research Associate | PhD Candidate"
+  bio              : "PhD Candidate"
   location         : "Mannheim | Freiburg"
   employer         :
   pubmed           : 
@@ -106,8 +106,8 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/lukas-birkenmaier-359b07166/?originalSubdomain=de"
-  orcid            : "0009-0006-1538-0589"
-  pinterest        :
+  orcid            : "http://orcid.org/0009-0006-1538-0589"
+  pinterest        :  
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
