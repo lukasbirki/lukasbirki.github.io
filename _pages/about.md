@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal Webpage"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a computational social scientist, currently based in Mannheim (Germany). Currently, I am working at the [GESIS- Leibniz Institute for the Social Sciences](https://www.gesis.org/home), where I am also pursuing my PhD in the field of data quality and computational text analysis.
+I’m a political data scientist, currently based in Mannheim (Germany). Currently, I am working at the [GESIS- Leibniz Institute for the Social Sciences](https://www.gesis.org/home), where I am also pursuing my PhD in the field of data quality and computational text analysis.
 
 I have a strong academic background, holding an MSc in <i>Big Data and Digital Futures</i> from the University of Warwick and a MA in <i>Politics and Public Administration</i> from the University of Konstanz. Previously, I have also worked at the Ministry of Economy, Labor, and Housing Baden-Württemberg, PricewaterhouseCoopers (PwC), the University of Duisburg-Essen, and the University of Konstanz, which have provided me with a diverse set of skills and perspectives.
 

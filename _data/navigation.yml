@@ -11,3 +11,6 @@ main:
 
   - title: "Software"
     url: /Software/ 
+
+  - title: "Media"
+    url: /media/ 
