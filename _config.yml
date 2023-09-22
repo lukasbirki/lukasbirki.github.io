@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Lukas Birkenmaier"
   avatar           : "bild.jpg"
-  bio              : "PhD Candidate"
+  bio              : "Political Data Scientist"
   location         : "Mannheim | Freiburg"
-  employer         :
+  employer         : "GESIS"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=afSuvRAAAAAJ&hl=de&oi=ao"
   email            : "lukas.birkenmaier@outlook.de"

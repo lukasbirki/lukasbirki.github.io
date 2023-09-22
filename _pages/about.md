@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Political Data Scientist &#124; Data Quality"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,27 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I’m a political data scientist, currently based in Mannheim (Germany). Currently, I am working at the [GESIS- Leibniz Institute for the Social Sciences](https://www.gesis.org/home), where I am also pursuing my PhD in the field of data quality and computational text analysis.
+## Welcome!
 
-I have a strong academic background, holding an MSc in <i>Big Data and Digital Futures</i> from the University of Warwick and a MA in <i>Politics and Public Administration</i> from the University of Konstanz. Previously, I have also worked at the Ministry of Economy, Labor, and Housing Baden-Württemberg, PricewaterhouseCoopers (PwC), the University of Duisburg-Essen, and the University of Konstanz, which have provided me with a diverse set of skills and perspectives.
+I’m Lukas, a doctoral researcher at the [GESIS- Leibniz Institute for the Social Sciences](https://www.gesis.org/home) in Germany. Please feel free to explore my website, and don't hesitate to reach out to me if you have any questions or would like to get in touch!
 
-# My Research
+## <i class="fas fa-graduation-cap"></i> Education 
+- Ph.D. Candidate in Computational Social Science (current), 2023, 
+- M. Sc. in Big Data and Digital Futures, 2021 (University of Warwick)
+- M.A. Politics and Public Administration, 2021 (University of Konstanz)
+- B.A. Politics and Public Administration, 2019 (University of Konstanz)
 
-## NLP 
 
-My research is grounded in the social sciences, with a particular focus on empirical quantitative methods and innovative methodological approaches, such as natural language processing and deep learning. I am particularly interested in exploring a broad range of topics, including the quality of digital behavior data, data literacy, empirical-based decision-making, and the impact of digital technologies on society, politics, and public administration. I am excited to contribute to the field by providing valuable insights and perspectives through my research.
 
-## Others
+##  <i class="fas fa-user"></i> Interests
 
-I have a passion for sharing my knowledge and skills with others, and one of the ways I do this is through teaching R. R is a powerful programming language and software environment for statistical computing and graphics. 
-I offer a variety of R training options, including workshops, seminars, and one-on-one consulting. In my workshops, I cover the basics of R and provide hands-on exercises to help students gain a solid understanding of the language. In my seminars, I delve into more advanced topics, such as machine learning and data visualization, and provide students with the opportunity to work on a project of their choice. Finally, in one-on-one consulting, I work with students to tailor the training to their specific needs and goals.
+- **NLP (Natural Language Processing):**
+  My research is rooted in the social sciences, with a focus on quantitative methods and innovative approaches like natural language processing and deep learning. In particular, I am interested in how to ensure the validity of text-based measures of social science constructs. 
 
-I am committed to helping others learn and grow, and I believe that teaching R is one of the best ways to do that. Whether you are a beginner looking to get started with R or an experienced user looking to take your skills to the next level, I am here to help.
+- **Election Studies**
+I have a background in political science, and my recent research centers around political elections. Specifically, I've been studying **postal voting** ("Briefwahl") and **voter turnout** (Wahlbeteiligung) within the German electoral system.
 
-Interests
-Data Science
-Text-as-data
-Machine Learning
-Social Media Communication
-Political Communication
-Intra-Party Heterogeneity
+
+- **Sharing Knowledge and Skills:**
+  I'm passionate about teaching **R**, a powerful programming language for statistical computing and graphics. Furthermore, I also teach courses on NLP and "Business Research Methods"
+
+- **Personal Interests**
+Beyond my academic pursuits, you'll often find me exploring the great outdoors, whether hiking or cycling in the Odenwald, Schwarzwald, or the Alps. Alternatively, you might spot me engrossed in a game of chess or enjoying a cup of coffee in a vibrant café setting.

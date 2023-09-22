@@ -6,11 +6,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
-
   - title: "Software"
     url: /software/ 
 
   - title: "Media"
     url: /media/ 
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/ 

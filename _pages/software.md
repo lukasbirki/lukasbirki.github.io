@@ -22,7 +22,7 @@ redirect_from:
   - /resume
 ---
 
-As a computational social scientist, I develope tools and software. Below, you will find some of my most recent project. 
+As a computational social scientist, developing tools and software is part of my daily work. Below, you will find some of my most recent project. 
 # ValiTex
 
 [![Project Status: Active -- The project has reached a stable, usable
@@ -33,7 +33,6 @@ developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repo
 [![R-CMD-check](https://github.com/lukasbirki/ValiTex/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/lukasbirki/ValiTex/actions/workflows/R-CMD-check.yaml)
 
 One of my recent projects is the development of the [ValiTex](https://lukasbirki.shinyapps.io/ValiTex/) framework for validating text-based measures of social science constructs (for the working paper, see [Birkenmaier et al. (2023)](https://arxiv.org/abs/2307.02863)). The frameworks comes with a shiny app, which is also implemented in an R-Package.
-
 
 {% include gallery %}
 
@@ -48,3 +47,17 @@ devtools::install_github("lukasbirki/ValiTex")
 
 You can then run the app locally by running `ValiTex::run_app()`
 
+# CitiesRopen
+
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+
+This Rpackages allows you to directly inspect and download data from the Open Data Portal of Constance. It can be easily used by practioniers, members of the civil society and academics and expects users to have only a basic understanding of R. Technically, the package relies on the DKAN API.
+
+``` r
+install.packages("devtools")
+devtools::install_github("CorrelAid/CitiesRopen")
+```
